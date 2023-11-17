@@ -1,3 +1,5 @@
 # {"product":"home","version":"16.2.15","path":"Settings.ExclusionsManagement.DetectionExclusions","columns":["Id","Path","ThreatName","Description","FileHash"]}
 3da57d57-a2d0-4ff4-91ba-60a2000011fe,D:\Hyper-V\*,,,
 f6cef7c5-d551-4fd3-8f9e-9d6f000011ff,C:\ProgramData\Microsoft\Windows\Hyper-V,,,
+e432fddc-fd96-4b1e-b7c8-cdd900001200,C:\Users\vndon\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4,,,
+99749f5f-76e6-4204-9faf-d65200001201,C:\Users\vndon\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc,,,
