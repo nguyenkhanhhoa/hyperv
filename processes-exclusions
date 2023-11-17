@@ -1,0 +1,5 @@
+# {"product":"home","version":"16.2.15","path":"plugins.01000101.settings.ExcludedProcesses"}
+C:\Windows\System32\vmms.exe
+C:\Windows\System32\vmwp.exe
+C:\Windows\System32\vmsp.exe
+C:\Windows\System32\vmcompute.exe
