@@ -1,0 +1,7 @@
+sudo nano /etc/wsl.conf
+
+[boot]
+systemd=true
+[network]
+hostname = WSL-Debian
+generateHosts = false
