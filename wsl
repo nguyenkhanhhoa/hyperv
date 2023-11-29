@@ -1,4 +1,5 @@
 #https://learn.microsoft.com/en-us/windows/wsl/wsl-config
+#https://medium.com/@avivarmaformal/setting-up-debian-on-wsl2-with-systemd-fb4831dd7b82
 
 sudo nano /etc/wsl.conf
 
