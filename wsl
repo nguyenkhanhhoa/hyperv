@@ -5,3 +5,10 @@ systemd=true
 [network]
 hostname = WSL-Debian
 generateHosts = false
+
+Debian 12 sourcelist:
+
+deb http://mirrors.bkns.vn/debian/ bookworm main
+deb http://mirrors.bkns.vn/debian/ bookworm-updates main
+deb http://security.debian.org/debian-security bookworm-security main
+deb http://ftp.debian.org/debian bookworm-backports main
