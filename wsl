@@ -1,3 +1,5 @@
+#https://learn.microsoft.com/en-us/windows/wsl/wsl-config
+
 sudo nano /etc/wsl.conf
 
 [boot]
@@ -5,6 +7,9 @@ systemd=true
 [network]
 hostname = WSL-Debian
 generateHosts = false
+
+sudo nano /etc/hosts
+127.0.1.1       WSL-Debian.     WSL-Debian
 
 Debian 12 sourcelist:
 
